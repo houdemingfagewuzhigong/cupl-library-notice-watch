@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#f5f7fb"/>
+  <rect x="70" y="70" width="1060" height="260" fill="#fff" stroke="#d8e0ec"/>
+  <text x="110" y="135" font-family="Arial,sans-serif" font-size="18" font-weight="700" fill="#a61b29">CUPL LIBRARY NOTICE WATCH</text>
+  <text x="110" y="195" font-family="Arial,sans-serif" font-size="52" font-weight="800" fill="#17202a">图书馆通知公告</text>
+  <text x="110" y="245" font-family="Arial,sans-serif" font-size="24" fill="#667085">图书馆公开信息每日归档、检索、导出与 GitHub Actions 自动更新</text>
+  <rect x="840" y="105" width="230" height="180" fill="#f4f7fb" stroke="#d8e0ec"/>
+  <text x="875" y="155" font-family="Arial,sans-serif" font-size="18" fill="#667085">当前收录</text>
+  <text x="875" y="235" font-family="Arial,sans-serif" font-size="72" font-weight="900" fill="#1e4f9a">0</text>
+  <rect x="70" y="360" width="1060" height="70" fill="#fff" stroke="#d8e0ec"/>
+  <text x="110" y="405" font-family="Arial,sans-serif" font-size="22" fill="#667085">搜索标题、栏目或日期...</text>
+  <rect x="70" y="460" width="250" height="110" fill="#fff" stroke="#d8e0ec"/><text x="100" y="505" font-family="Arial,sans-serif" font-size="18" fill="#667085">筛选结果</text><text x="100" y="550" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#17202a">可诊断</text>
+  <rect x="345" y="460" width="250" height="110" fill="#fff" stroke="#d8e0ec"/><text x="375" y="505" font-family="Arial,sans-serif" font-size="18" fill="#667085">覆盖栏目</text><text x="375" y="550" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#17202a">图书馆</text>
+  <rect x="620" y="460" width="250" height="110" fill="#fff" stroke="#d8e0ec"/><text x="650" y="505" font-family="Arial,sans-serif" font-size="18" fill="#667085">数据格式</text><text x="650" y="550" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#17202a">JSON + CSV</text>
+  <rect x="895" y="460" width="235" height="110" fill="#fff" stroke="#d8e0ec"/><text x="925" y="505" font-family="Arial,sans-serif" font-size="18" fill="#667085">运行方式</text><text x="925" y="550" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#0f766e">Playwright</text>
+  <rect x="70" y="610" width="1060" height="90" fill="#fff" stroke="#d8e0ec"/>
+  <text x="110" y="665" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#17202a">公告卡片展示标题、日期、栏目、首次发现时间与官方详情链接</text>
+</svg>

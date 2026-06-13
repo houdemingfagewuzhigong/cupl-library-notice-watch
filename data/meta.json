@@ -1,0 +1,15 @@
+{
+  "site": "中国政法大学图书馆",
+  "home_url": "https://lib.cupl.edu.cn/",
+  "notice_url": "https://lib.cupl.edu.cn/",
+  "updated_at": "2026-06-13T05:41:03+00:00",
+  "total_notices": 0,
+  "sections": [
+    "图书馆公开信息"
+  ],
+  "latest_date": null,
+  "diagnostics": {
+    "links": "no public notice-like links matched; body starts with: Forbidden\n\nYou don't have permission to access this resource."
+  },
+  "disclaimer": "非官方项目，仅归档公开网页信息，不代表中国政法大学官方。"
+}

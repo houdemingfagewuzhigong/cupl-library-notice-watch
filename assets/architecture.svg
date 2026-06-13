@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520">
+  <rect width="1100" height="520" fill="#ffffff"/>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#1e4f9a"/></marker></defs>
+  <text x="60" y="70" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#17202a">CUPL Library Notice Watch Architecture</text>
+  <g font-family="Arial,sans-serif" font-size="20">
+    <rect x="70" y="140" width="210" height="95" fill="#f4f7fb" stroke="#d8e0ec"/><text x="112" y="195" fill="#17202a">Library Home</text>
+    <rect x="350" y="140" width="210" height="95" fill="#f4f7fb" stroke="#d8e0ec"/><text x="387" y="195" fill="#17202a">Playwright</text>
+    <rect x="630" y="140" width="210" height="95" fill="#f4f7fb" stroke="#d8e0ec"/><text x="660" y="183" fill="#17202a">data/notices</text><text x="688" y="210" fill="#667085" font-size="16">JSON + CSV</text>
+    <rect x="350" y="315" width="210" height="95" fill="#f4f7fb" stroke="#d8e0ec"/><text x="383" y="370" fill="#17202a">GitHub Actions</text>
+    <rect x="630" y="315" width="210" height="95" fill="#f4f7fb" stroke="#d8e0ec"/><text x="670" y="370" fill="#17202a">Static Dashboard</text>
+    <line x1="280" y1="188" x2="345" y2="188" stroke="#1e4f9a" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="560" y1="188" x2="625" y2="188" stroke="#1e4f9a" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="455" y1="315" x2="455" y2="240" stroke="#1e4f9a" stroke-width="3" marker-end="url(#arrow)"/>
+    <line x1="735" y1="240" x2="735" y2="310" stroke="#1e4f9a" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+</svg>
